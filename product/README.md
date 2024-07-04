@@ -1,4 +1,4 @@
-# Product-Webpage-with-PHP-MySQL-CSS-and-HTML
+# Product-Webpage-with-PHP-MySQL-
 
 
 ## Project Overview
